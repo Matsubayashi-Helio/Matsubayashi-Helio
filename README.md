@@ -12,7 +12,7 @@ Here are some things you might want to know about me:
 - 📚 My next goal is to learn and apply Machine Learning on an application
 - You can reach me out through here:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusma37/)](https://www.linkedin.com/in/helio-matsubayashi/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:mtsma37@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)]
 <br>
 <br>
 
