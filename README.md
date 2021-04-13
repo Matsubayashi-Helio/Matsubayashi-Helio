@@ -1,16 +1,27 @@
-### Hi there 👋
+<font size='2'>
+```ruby
+world = current_user.name
+```
+</font>
 
-<!--
-**Matsubayashi-Helio/Matsubayashi-Helio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<font size='5'>
+```ruby
+puts "Hello #{world}! 👋"
+```
+</font>
 
-Here are some ideas to get you started:
+<img align='right' width="50%" src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some things you might want to know about me:
+
+- 🐶 I like pets, so you must know that I'm a nice person
+- 🎓 I have a bachelor's degree on Computer Science
+- 📖 I'm currently learning Ruby on Rails and web applications
+- 📚 My next goal is to learn and apply Machine Learning on an application
+- You can reach me out through here:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusma37/)](https://www.linkedin.com/in/helio-matsubayashi/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:mtsma37@gmail.com)
+<br>
+<br>
+
+Thanks for visiting!
